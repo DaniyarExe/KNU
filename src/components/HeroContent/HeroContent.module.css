@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+}
+
+.backImg img {
+    width: 100%;
+}
+
+.logo {
+    position: absolute;
+    top: 225px;
+    left: 100px;
+}
+
+.infoKNU {
+    width: 1000px;
+    font-size: 12px;
+    color: #fff;
+    position: absolute;
+    top: 250px;
+    left: 850px;
+    background-color: #00a2ff;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.infoKNU h2 {
+    font-weight: 400;
+}
