@@ -1,0 +1,27 @@
+.tickerContainer {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: #f1f1f1;
+    position: absolute;
+
+}
+
+.ticketTitle {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 9%;
+    background-color: #003cff;
+}
+
+.tickerItem {
+    display: flex;
+    align-items: center;
+    color: #003cff;
+}
+
+.tickerItem h1 {
+    margin-right: 20px;
+    font-size: 18px;
+}
